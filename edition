@@ -1,0 +1,28 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+Data: 28/06/2023
+Empresa: Abstergo Industries
+Responsável: Rodrigo Nunes Ciriaco
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por [nome do responsável pelo projeto]. O objetivo do projeto foi selecionar 3 serviços da AWS com a finalidade de reduzir os custos imediatos da empresa.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
+
+Etapa 1: Amazon EC2 - Computação escalável na nuvem
+Nesta etapa, foi implementado o serviço Amazon EC2, que oferece recursos de computação escalável na nuvem. O caso de uso consiste em migrar as cargas de trabalho da empresa para instâncias EC2, permitindo ajustar a capacidade conforme necessário. Isso visa otimizar o uso de recursos e reduzir os custos associados à infraestrutura de TI.
+
+Etapa 2: AWS Lambda - Execução de código sem servidor
+Na segunda etapa, foi implementado o serviço AWS Lambda, que permite executar código sem a necessidade de provisionar ou gerenciar servidores. O foco desta ferramenta é realizar tarefas de processamento de dados, como transformações e manipulações, de forma escalável e econômica. O caso de uso envolve migrar determinados processos para funções Lambda, reduzindo a necessidade de recursos dedicados e diminuindo os custos operacionais.
+
+Etapa 3: Amazon RDS - Banco de dados relacional gerenciado
+A terceira etapa contemplou a implementação do serviço Amazon RDS, que oferece um banco de dados relacional gerenciado na nuvem. O foco desta ferramenta é fornecer uma solução de banco de dados escalável, segura e de alta disponibilidade. O caso de uso específico abrange migrar os bancos de dados existentes da empresa para instâncias do Amazon RDS, permitindo uma gestão simplificada e reduzindo os custos associados à manutenção de infraestrutura própria.
+
+Conclusão
+A implementação das ferramentas Amazon EC2, AWS Lambda e Amazon RDS na Abstergo Industries visa proporcionar benefícios como computação escalável, execução de código sem servidor e banco de dados relacional gerenciado. Essas soluções têm como objetivo aumentar a eficiência operacional, melhorar a produtividade e reduzir os custos da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam aprimorar ainda mais os processos da empresa.
+
+Anexos
+
+[Lista de anexos, como manuais, documentos, planilhas, entre outros]
+Assinatura do Responsável pelo Projeto:
+[Nome do Responsável pelo Projeto]
