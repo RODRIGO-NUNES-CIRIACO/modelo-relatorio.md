@@ -1,0 +1,31 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE MEDIDAS DE SEGURANÇA
+Data: 28/06/2023
+Empresa: Abstergo Industries 
+Responsável: Rodrigo Nunes Ciriaco
+
+Introdução
+Este relatório apresenta o processo de implementação de ferramentas na empresa [nome da empresa], realizado por [nome do responsável pelo projeto]. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+
+Descrição do Projeto
+O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
+
+Medida 1: [Descrição de caso de uso]
+Nessa medida de segurança, foi implementada a utilização do Amazon GuardDuty para monitorar e detectar atividades maliciosas na infraestrutura da empresa. Foi configurado um conjunto de regras personalizadas para identificar comportamentos suspeitos e alertar a equipe de segurança em tempo real. A integração com os serviços de log permitiu uma visão abrangente das atividades e permitiu a tomada de ações imediatas para mitigar possíveis ameaças.
+
+Medida 2: [Descrição de caso de uso]
+A segunda medida de segurança consistiu na implementação da autenticação multifator (MFA) para todas as contas de usuário da AWS. Com essa medida, um segundo fator de autenticação, como um token de segurança ou um código SMS, tornou-se obrigatório para acessar os recursos da empresa na nuvem. Essa camada adicional de proteção reduziu significativamente o risco de acesso não autorizado e fortaleceu a segurança das contas dos usuários.
+
+Medida 3: [Descrição de caso de uso]
+Na terceira medida de segurança, foi implantada a criptografia de dados em repouso utilizando o Amazon S3. Todos os dados armazenados nos buckets do S3 passaram a ser automaticamente criptografados, utilizando chaves gerenciadas pela AWS Key Management Service (KMS). Isso garantiu a confidencialidade dos dados sensíveis e aumentou a segurança do armazenamento na nuvem.
+
+Conclusão
+A implementação das ferramentas na empresa Abstergo Industries tem como objetivo proporcionar os seguintes benefícios: aumento da detecção de atividades maliciosas, proteção adicional para as contas dos usuários e criptografia dos dados em repouso. Essas medidas fortalecerão a segurança geral da empresa, reduzindo os riscos de violações de dados e ataques cibernéticos. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos de segurança da empresa.
+
+Anexos
+
+Manual de Configuração do Amazon GuardDuty
+Documento de Procedimentos de Autenticação Multifator (MFA)
+Planilha de Registro de Atividades do Amazon S3
+Assinatura do Responsável pelo Projeto:
+
+[Nome do Responsável pelo Projeto]
